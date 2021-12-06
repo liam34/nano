@@ -1,0 +1,6 @@
+Patient Name,,Sex,Age of diagnosis,Year of first diagnosis,Year of second diagnosis,Year of third diagnosis,PSA at diagnosis (ng/ml),Gleason scode ,Clinical stage
+Tony  Stark,,M,0,2017,2019,2020,1,1,0
+Peter Parker,,M,0,2017,2018,2019,0,0,1
+Steve Rogers,,M,0,2018,2019,2020,2,1,0
+Bruce Banner,,M,0,2016,2018,2019,1,2,0
+Bucky Banner,,M,1,2016,2017,2018,3,3,1
